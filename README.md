@@ -15,6 +15,48 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
+![Gráfico de Previsão](31021010.png)
+
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Rondonópolis
+- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
+- Mês previsto: 09
+
+Fator Influenciador:
+- Município: Blumenau
+- Elemento: Adubos (fertilizantes)
+- Mês previsto: 09
+- Unidade: price_mun_lag25
+
+
+
+
+
+
+
+![Gráfico de Previsão](31022100.png)
+
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Rondonópolis
+- Produto (NCM): Sulfato de amônio-31022100 
+- Mês previsto: 06
+
+Fator Influenciador:
+- Município: Belém
+- Elemento: Adubos (fertilizantes)
+- Mês previsto: 06
+- Unidade: kt_mun
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31042090.png)
 
 Fator de Influência em Destaque:
