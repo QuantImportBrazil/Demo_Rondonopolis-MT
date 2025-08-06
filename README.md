@@ -15,8 +15,18 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
-![Gráfico de Previsão](31021010.png)
-
-![Gráfico de Previsão](31022100.png)
-
 ![Gráfico de Previsão](31042090.png)
+
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Rondonópolis
+- Produto (NCM): Outros cloretos de potássio 
+- Mês previsto: 11
+
+Fator Influenciador:
+- Município: Salvador
+- Produto (SH2): Adubos (fertilizantes)
+- Mês previsto: 11
+- Unidade: kt_lag1
+
