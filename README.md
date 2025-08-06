@@ -17,6 +17,62 @@
 
 ![Gráfico de Previsão](31021010.png)
 
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Rondonópolis
+- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
+- Mês previsto: 05
+
+Fator Influenciador:
+quant_expl    MOP_lag6
+mês_expl            03
+importance    0.000159
+Name: 19, dtype: object
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31022100.png)
 
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Rondonópolis
+- Produto (NCM): Sulfato de amônio-31022100 
+- Mês previsto: 03
+
+Fator Influenciador:
+quant_expl    Urea_lag4
+mês_expl             03
+importance     0.001468
+Name: 37, dtype: object
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31042090.png)
+
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Rondonópolis
+- Produto (NCM): Outros cloretos de potássio-31042090 
+- Mês previsto: 10
+
+Fator Influenciador:
+quant_expl    DAP_lag5
+mês_expl            02
+importance    0.000116
+Name: 7, dtype: object
+
+
+
+
+
