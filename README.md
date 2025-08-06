@@ -21,12 +21,12 @@ Fator de Influência em Destaque:
 
 Previsão Influenciada:
 - Município: Rondonópolis
-- Produto (NCM): Outros cloretos de potássio 
+- Produto (NCM): Outros cloretos de potássio-31042090 
 - Mês previsto: 11
 
 Fator Influenciador:
 - Município: Salvador
-- Produto (SH2): Adubos (fertilizantes)
+- Elemento: Adubos (fertilizantes)
 - Mês previsto: 11
 - Unidade: kt_lag1
 
