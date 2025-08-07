@@ -22,13 +22,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Rondonópolis
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 09
+- Mês: 09
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF SC
-- Unidade price_mun_lag25
+- Produto: Adubos (fertilizantes) (31)
+- UF: SC
+- Unidade: price_mun_lag25
 \n
 
 
@@ -41,13 +41,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Rondonópolis
 - Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 06
+- Mês: 06
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF PA
-- Unidade kt_mun
+- Produto: Adubos (fertilizantes) (31)
+- UF: PA
+- Unidade: kt_mun
 \n
 
 
@@ -60,13 +60,13 @@ Fator de Influência em Destaque nos últimos 8 anos:
 Previsão Influenciada:
 - Município: Rondonópolis
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 11
+- Mês: 11
 
 
 Fator Influenciador: Comércio Exterior
-- Produto Adubos (fertilizantes) (31)
-- UF BA
-- Unidade kt_lag1
+- Produto: Adubos (fertilizantes) (31)
+- UF: BA
+- Unidade: kt_lag1
 \n
 
 
