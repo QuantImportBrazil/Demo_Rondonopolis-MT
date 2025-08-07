@@ -29,7 +29,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: SC
 - Unidade: price_mun_lag25
-\n
+
+
 
 
 
@@ -48,7 +49,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: PA
 - Unidade: kt_mun
-\n
+
+
 
 
 
@@ -67,6 +69,7 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: BA
 - Unidade: kt_lag1
-\n
+
+
 
 
