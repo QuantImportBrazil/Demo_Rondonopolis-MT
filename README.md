@@ -21,32 +21,14 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Rondonópolis
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 06
+- Mês previsto: 08
 
 
 Fator Influenciador: Comex
-- Unidade Federativa: MT
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês: 5
-- Unidade: kt_lag25
-
-
-
-
-
-
-
-![Gráfico de Previsão](31042090.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Rondonópolis
-- Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 02
-
-
-Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
-- Unidade: date
+- Unidade Federativa: MG
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Mês: 9
+- Unidade: sm_diff_diff
 
 
 
