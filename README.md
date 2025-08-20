@@ -36,20 +36,20 @@ Fator Influenciador: Comex
 
 
 
-![Gráfico de Previsão](31042090.png)
+![Gráfico de Previsão](31022100.png)
 Fator de Influência em Destaque:
 Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: Rondonópolis
-- Produto (NCM): Outros cloretos de potássio-31042090 
+- Produto (NCM): Sulfato de amônio-31022100 
 - Mês previsto: 08
 
 
 Fator Influenciador: Comex
-- Unidade Federativa: PR
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
+- Unidade Federativa: SP
+- Grupo de Produto (SH2): Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios-87 
 - Mês: 9
-- Unidade: price_mun_lag24
+- Unidade: price_mun_lag13
 
 
 
