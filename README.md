@@ -55,24 +55,3 @@ Fator Influenciador: Quantidade em Comex
 
 
 
-
-
-![Gráfico de Previsão](31042090.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Rondonópolis
-- Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 08
-
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: SC
-- Grupo de Produto (SH2): Sementes e frutos oleaginosos; grãos, sementes e frutos diversos; plantas industriais ou medicinais; palhas e forragens-12 
-- Mês: 9
-- Unidade: price_mun_lag13
-
-
-
-
-
