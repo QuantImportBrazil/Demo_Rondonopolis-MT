@@ -6,9 +6,9 @@
 
 # Previsão de Importação - Rondonópolis-MT
 
-> **Emissão:** 07-2025  
+> **Emissão:** 09-2025  
 > Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.  
-> As previsões foram geradas com base em dados limitados até o mês 7.
+> As previsões foram geradas com base em dados limitados até o mês 9.
 
 ---
 
@@ -16,42 +16,7 @@
 
 
 ![Gráfico de Previsão](31021010.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Rondonópolis
-- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 08
-
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: MG
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês: 9
-- Unidade: sm_diff_diff
-
-
-
-
-
-
 
 ![Gráfico de Previsão](31022100.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Rondonópolis
-- Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 08
 
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: SP
-- Grupo de Produto (SH2): Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios-87 
-- Mês: 9
-- Unidade: price_mun_lag13
-
-
-
-
-
+![Gráfico de Previsão](31042090.png)
