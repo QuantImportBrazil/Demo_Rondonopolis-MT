@@ -17,6 +17,4 @@
 
 ![Gráfico de Previsão](31021010.png)
 
-![Gráfico de Previsão](31022100.png)
-
 ![Gráfico de Previsão](31042090.png)
