@@ -4,7 +4,7 @@
 
 # Previsão de Importação - Rondonópolis-MT
 
-> **Emissão:** 09-2025  
+> **Emissão:** 10-2025  
 > A seguir são apresentadas previsões e, para fim de comparação, valores reais* de períodos anteriores.  
 
 ---
