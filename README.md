@@ -19,7 +19,6 @@
 
 ## Notas Técnicas
 * `*` Mesmo os valores aqui considerados reais são estimativas de nosso sistema, pois os dados divulgados não apresentam tal granularidade.  
-* As previsões foram geradas tendo o mês 9 anterior como último mês conhecido.  
 * Intervalos de confiança podem ser reduzidos através de 'tunning'.
 
 ---
